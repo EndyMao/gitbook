@@ -1,4 +1,4 @@
 # Summary
 
-* [Hexo搭建](README.md)
+* [Hexo+nginx搭建博客](README.md)
 
